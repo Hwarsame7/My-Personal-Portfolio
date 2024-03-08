@@ -1,41 +1,51 @@
+/* 
+   Reset styles to normalize default browser styles 
+*/
+
+/* Apply box-sizing border-box to all elements */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  html {
-    height: 100%;
-  }
-  
-  body {
-    min-height: 100%;
-    line-height: 1;
-    font-family: sans-serif;
-  }
-  
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-size: 100%;
-  }
-  
-  input,
-  select,
-  option,
-  optgroup,
-  textarea,
-  button,
-  pre,
-  code {
-    font-size: 100%;
-    font-family: inherit;
-  }
-  
-  ol,
-  ul {
-    list-style: none;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set height of html element to 100% */
+html {
+  height: 100%;
+}
+
+/* Set minimum height of body element to 100% */
+body {
+  min-height: 100%;
+  line-height: 1; /* Set line height to default */
+  font-family: sans-serif; /* Use sans-serif font family for body text */
+}
+
+/* Set font size of headings to 100% of the default size */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+}
+
+/* Set font size and family of form elements to inherit from parent */
+input,
+select,
+option,
+optgroup,
+textarea,
+button,
+pre,
+code {
+  font-size: 100%;
+  font-family: inherit;
+}
+
+/* Remove default list-style for ordered and unordered lists */
+ol,
+ul {
+  list-style: none;
+}
