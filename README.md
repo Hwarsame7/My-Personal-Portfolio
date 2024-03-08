@@ -8,7 +8,7 @@ The portfolio website is a showcase of my skills, projects, and achievements. It
 
 Github Url - https://hwarsame7.github.io/portfolio/
 
-Technologies Used
+**Technologies Used**
 
 The portfolio website was created using the following technologies:
 
