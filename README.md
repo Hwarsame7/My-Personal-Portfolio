@@ -6,8 +6,7 @@ This is the readme file for my portfolio website, which was created using HTML a
 
 The portfolio website is a showcase of my skills, projects, and achievements. It is designed to give potential employers, clients, or collaborators an overview of my work and abilities. The website consists of multiple webpages, including a home page, an about page, a projects page, and a contact page.
 
-Github Url - https://hwarsame7.github.io/portfolio/
-
+**Github Url** - https://hwarsame7.github.io/My-Personal-Portfolio/
 **Technologies Used**
 
 The portfolio website was created using the following technologies:
